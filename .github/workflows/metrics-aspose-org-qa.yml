@@ -12,7 +12,7 @@ on:
   
   #push:
   #  branches: [ main ]
-    #paths: [ 'content/aspose-com-v2/**' ]
+    #paths: [ 'content/aspose-org-v2/**' ]
   #pull_request:
   #  branches: [ main1 ]
 
